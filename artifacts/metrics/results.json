@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-07-14T21:50:18.497089",
+  "baseline": {
+    "precision_macro": 0.21703448275862067,
+    "recall_macro": 0.20049746043633174,
+    "f1_macro": 0.18938030287665214
+  },
+  "early_fusion": {
+    "precision_macro": 0.20429136081309993,
+    "recall_macro": 0.20034193944099737,
+    "f1_macro": 0.1892852939561086
+  },
+  "late_fusion": {
+    "precision_macro": 0.16574241742185214,
+    "recall_macro": 0.17035554796316643,
+    "f1_macro": 0.028997412815889512
+  }
+}
